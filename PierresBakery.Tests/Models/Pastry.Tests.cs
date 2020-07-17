@@ -15,11 +15,11 @@ namespace Pastry.Tests
       Assert.AreEqual(typeof(Pastry), testPastry.GetType());
     }
     [TestMethod]
-    public void Cost_WillProvideTheCostOfPastryDeal_Int()
+    public void TwoAndOneHalfPrice_WillProvideTheCostOfPastryDeal_Int()
     {
       Pastry testBread = new Pastry();
       int TwoAndOneHalfPrice = TwoAndOneHalfPrice();
-      Assert.AreEqual(5, );
+      Assert.AreEqual(5, TwoAndOneHalfPrice());
     }
   }
 }

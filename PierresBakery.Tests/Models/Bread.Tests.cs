@@ -15,11 +15,10 @@ namespace Bread.Tests
       Assert.AreEqual(typeof(Bread), testBread.GetType());
     }
     [TestMethod]
-    public void Cost_WillProvideTheCostOfBreadDeal_Int()
+    public void TwoforOne_WillProvideTheCostOfBreadDeal_Int()
     {
       Bread testBread = new Bread();
-      int TwoforOne = TwoforOne();
-      Assert.AreEqual(10, Cost);
+      Assert.AreEqual(10, TwoforOne());
     }
   }
 }
