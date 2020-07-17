@@ -11,8 +11,8 @@ namespace Bread.Tests
     [TestMethod]
     public void BreadConstructor_WillCreateABreadObject_Word()
     {
-      Bread testBread = new Bread();
-      Assert.AreEqual(true, testBread.isBread());
+      Bread testBread = new Bread("Bread");
+      Assert.AreEqual(typeof(Bread), testBread.GetType());
     }
   }
 }

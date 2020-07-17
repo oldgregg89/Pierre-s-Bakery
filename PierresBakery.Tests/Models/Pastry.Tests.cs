@@ -9,10 +9,10 @@ namespace Pastry.Tests
   public class Pastry
   {
     [TestMethod]
-    public void BreadConstructor_WillCreateABreadObject_Word()
+    public void PastryConstructor_WillCreateAPastryObject_Word()
     {
-      Pastry testBread = new Pastry();
-      Assert.AreEqual(true, testBread.isPastry());
+      Pastry testPastry = new Pastry();
+      Assert.AreEqual(typeof(Pastry), testPastry.GetType());
     }
   }
 }

@@ -1,13 +1,16 @@
 using System;
 using System.Collections.Generic;
 
-namespace Bread.Models
+namespace Pastry.Models
 {
-  public class Bread
+  public class Pastry
   {
-    public Bread(string bread)
+    public string InputPastry {get; set;}
+    public int Cost {get; set;}
+    public Pastry(string pastry)
     {
-
+      InputPastry = pastry;
+      Cost = 2;
     }
   }
 }
