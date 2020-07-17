@@ -18,7 +18,7 @@ namespace Bread.Tests
     public void Cost_WillProvideTheCostOfBreadDeal_Int()
     {
       Bread testBread = new Bread();
-      int BreadDeal = breadDeal();
+      int TwoforOne = TwoforOne();
       Assert.AreEqual(10, Cost);
     }
   }
