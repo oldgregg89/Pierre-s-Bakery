@@ -1,17 +1,18 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
-using BreadPastry.Models;
+using Bakery.Models;
 
-namespace BreadPastry.Tests 
+namespace Bread.Tests 
 {
   [TestClass]
-  public class BreadPastryTests
+  public class BreadTests
   {
     [TestMethod]
     public void BreadConstructor_WillCreateABreadObject_Word()
     {
-      
+      Bread testBread = new Bread();
+      Assert.AreEqual(true, testBread.isBread());
     }
   }
 }

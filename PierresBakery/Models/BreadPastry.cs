@@ -1,18 +1,17 @@
 using System;
 using System.Collections.Generic;
 
-namespace Bread.Models
+namespace Bakery.Models
 {
   public class Bread
   {
-    
-  }
-}
+    public Bread(string bread)
+    {
 
-namespace Pastry.Models
-{
+    }
+  }
   public class Pastry
   {
-
+    
   }
 }

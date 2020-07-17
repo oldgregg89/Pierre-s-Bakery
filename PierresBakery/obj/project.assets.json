@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/ProjectName.csproj",
-      "projectName": "ProjectName",
-      "projectPath": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/ProjectName.csproj",
+      "projectUniqueName": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/PierresBakery.csproj",
+      "projectName": "PierresBakery",
+      "projectPath": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/PierresBakery.csproj",
       "packagesPath": "/Users/iangregg/.nuget/packages/",
       "outputPath": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/",
       "projectStyle": "PackageReference",

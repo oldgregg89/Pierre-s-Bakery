@@ -1,13 +1,13 @@
 # _Pierres Bakery_
 
-#### _, 2020 ver 1.0_
+#### _This project is Based around the C# language and the use of the red green refactoring testing through the example of a bakery., 2020 ver 1.0_
 
-#### By _Ian Gregg & _
+#### By _Ian Gregg_
 [PierresBakery](https://github.com/oldgregg89/Pierre-s-Bakery)
 
 ## Description
 
-
+This project is Based around the C# language and the use of the red green refactoring testing through the example of a bakery. It will factor how many bread and pastry's you wish to buy and return a sum total of the cost. 
 __
 
 ## Setup/Installation Requirements
@@ -27,10 +27,10 @@ __
 
 | Behavior    | Input | Output |
 | :---------- | ----- | -----: |
-| behavior 1 |  |  |
-| behavior 2 |  |  |
-| behavior 3 |  |  |
-| behavior 4 |  |  |
+| Will create an instance of Bread | "Bread" | "Bread" |
+| Will create an instance of Pastry | "Pastry" | "Pastry" |
+| Will calutlate the cost of the bread & Pastry | "2 bread 3 Pastry" | "$10" |
+
 
 
 ## Known Bugs

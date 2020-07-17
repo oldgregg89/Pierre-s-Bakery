@@ -1662,6 +1662,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "PierresBakery/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/PierresBakery.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PierresBakery.dll": {}
+        }
       }
     }
   },
@@ -5813,6 +5823,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "PierresBakery/1.0.0": {
+      "type": "project",
+      "path": "../PierresBakery/PierresBakery.csproj",
+      "msbuildProject": "../PierresBakery/PierresBakery.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5820,7 +5835,8 @@
       "MSTest.TestAdapter >= 1.2.0",
       "MSTest.TestFramework >= 1.2.0",
       "Microsoft.NET.Test.Sdk >= 15.0.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "PierresBakery >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5830,9 +5846,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/ProjectName.Tests.csproj",
-      "projectName": "ProjectName.Tests",
-      "projectPath": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/ProjectName.Tests.csproj",
+      "projectUniqueName": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/PierresBakery.Tests.csproj",
+      "projectName": "PierresBakery.Tests",
+      "projectPath": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/PierresBakery.Tests.csproj",
       "packagesPath": "/Users/iangregg/.nuget/packages/",
       "outputPath": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/",
       "projectStyle": "PackageReference",
@@ -5850,7 +5866,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/PierresBakery.csproj": {
+              "projectPath": "/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/PierresBakery.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
