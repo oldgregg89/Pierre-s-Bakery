@@ -28,7 +28,7 @@ __
 | :---------- | ----- | -----: |
 | Will create an instance of Bread | "Bread" | "Bread" |
 | Will create an instance of Pastry | "Pastry" | "Pastry" |
-| Will calutlate the cost of the bread & Pastry | "2 bread 3 Pastry" | "$10" |
+| Will calutlate the cost of the bread & Pastry | "3 Bread" | "$10" |
 
 
 

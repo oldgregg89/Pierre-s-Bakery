@@ -14,7 +14,7 @@ namespace Bread.Models
       InputBread = bread;
       Cost = 5;
     }
-    public static void TwoforOne()
+    public int TwoforOne()
     {
       
     }
