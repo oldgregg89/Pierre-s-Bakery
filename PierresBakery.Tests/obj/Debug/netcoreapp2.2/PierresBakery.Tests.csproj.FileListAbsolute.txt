@@ -1,3 +1,7 @@
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.csprojAssemblyReference.cache
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.csproj.CoreCompileInputs.cache
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.AssemblyInfoInputs.cache
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.AssemblyInfo.cs
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -8,10 +12,6 @@
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/bin/Debug/netcoreapp2.2/PierresBakery.Tests.pdb
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/bin/Debug/netcoreapp2.2/PierresBakery.dll
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/bin/Debug/netcoreapp2.2/PierresBakery.pdb
-/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.csprojAssemblyReference.cache
-/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.csproj.CoreCompileInputs.cache
-/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.AssemblyInfoInputs.cache
-/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.AssemblyInfo.cs
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.csproj.CopyComplete
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.dll
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery.Tests/obj/Debug/netcoreapp2.2/PierresBakery.Tests.pdb
