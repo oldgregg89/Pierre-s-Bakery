@@ -1,12 +1,12 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
-using Bakery.Models;
+using Bread.Models;
 
 namespace Bread.Tests 
 {
   [TestClass]
-  public class BreadTests
+  public class Bread
   {
     [TestMethod]
     public void BreadConstructor_WillCreateABreadObject_Word()

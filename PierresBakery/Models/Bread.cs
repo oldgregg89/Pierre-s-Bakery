@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Bakery.Models
+namespace Bread.Models
 {
   public class Bread
   {
@@ -9,9 +9,5 @@ namespace Bakery.Models
     {
 
     }
-  }
-  public class Pastry
-  {
-    
   }
 }

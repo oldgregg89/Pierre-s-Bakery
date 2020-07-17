@@ -1,0 +1,4 @@
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/Debug/netcoreapp2.2/PierresBakery.csprojAssemblyReference.cache
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/Debug/netcoreapp2.2/PierresBakery.csproj.CoreCompileInputs.cache
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/Debug/netcoreapp2.2/PierresBakery.AssemblyInfoInputs.cache
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/Debug/netcoreapp2.2/PierresBakery.AssemblyInfo.cs

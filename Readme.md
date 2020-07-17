@@ -8,7 +8,6 @@
 ## Description
 
 This project is Based around the C# language and the use of the red green refactoring testing through the example of a bakery. It will factor how many bread and pastry's you wish to buy and return a sum total of the cost. 
-__
 
 ## Setup/Installation Requirements
 
