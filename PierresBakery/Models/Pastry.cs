@@ -12,5 +12,9 @@ namespace Pastry.Models
       InputPastry = pastry;
       Cost = 2;
     }
+    public int breadPastry()
+    {
+      
+    }
   }
 }

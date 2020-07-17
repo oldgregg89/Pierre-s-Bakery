@@ -12,5 +12,9 @@ namespace Bread.Models
       InputBread = bread;
       Cost = 5;
     }
+    public int breadDeal()
+    {
+
+    }
   }
 }

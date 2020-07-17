@@ -14,5 +14,12 @@ namespace Pastry.Tests
       Pastry testPastry = new Pastry();
       Assert.AreEqual(typeof(Pastry), testPastry.GetType());
     }
+    [TestMethod]
+    public void Cost_WillProvideTheCostOfPastryDeal_Int()
+    {
+      Pastry testBread = new Pastry();
+      int CostBread = pastryDeal();
+      Assert.AreEqual(5, Cost);
+    }
   }
 }
