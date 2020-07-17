@@ -1,13 +1,13 @@
-# _new template_
+# _Pierres Bakery_
 
-#### _{Brief description of application}, 2020 ver 1.0_
+#### _, 2020 ver 1.0_
 
-#### By _Ian Gregg & (Co author)_
-[new-template-for-code-C]()
+#### By _Ian Gregg & _
+[PierresBakery]()
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+__
 
 ## Setup/Installation Requirements
 
