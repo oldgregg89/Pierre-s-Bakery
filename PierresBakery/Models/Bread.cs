@@ -5,6 +5,8 @@ namespace Bread.Models
 {
   public class Bread
   {
+    private static int cost;
+
     public string InputBread {get; set;}
     public int Cost {get; set;}
     public Bread(string bread)
@@ -14,7 +16,7 @@ namespace Bread.Models
     }
     public static void TwoforOne()
     {
-
+      
     }
   }
 }

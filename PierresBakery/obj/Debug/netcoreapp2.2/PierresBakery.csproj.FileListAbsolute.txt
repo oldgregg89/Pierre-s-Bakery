@@ -1,9 +1,9 @@
-/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/bin/Debug/netcoreapp2.2/PierresBakery.deps.json
-/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/bin/Debug/netcoreapp2.2/PierresBakery.dll
-/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/bin/Debug/netcoreapp2.2/PierresBakery.pdb
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/Debug/netcoreapp2.2/PierresBakery.csprojAssemblyReference.cache
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/Debug/netcoreapp2.2/PierresBakery.csproj.CoreCompileInputs.cache
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/Debug/netcoreapp2.2/PierresBakery.AssemblyInfoInputs.cache
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/Debug/netcoreapp2.2/PierresBakery.AssemblyInfo.cs
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/bin/Debug/netcoreapp2.2/PierresBakery.deps.json
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/bin/Debug/netcoreapp2.2/PierresBakery.dll
+/Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/bin/Debug/netcoreapp2.2/PierresBakery.pdb
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/Debug/netcoreapp2.2/PierresBakery.dll
 /Users/iangregg/Desktop/PierresBakery.Solution /PierresBakery/obj/Debug/netcoreapp2.2/PierresBakery.pdb
