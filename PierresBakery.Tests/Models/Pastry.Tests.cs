@@ -18,8 +18,8 @@ namespace Pastry.Tests
     public void TwoAndOneHalfPrice_WillProvideTheCostOfPastryDeal_Int()
     {
       Pastry testBread = new Pastry();
-      int TwoAndOneHalfPrice = TwoAndOneHalfPrice();
-      Assert.AreEqual(5, TwoAndOneHalfPrice());
+      
+      Assert.AreEqual(5, Pastry.TwoAndOneHalfPrice());
     }
   }
 }
