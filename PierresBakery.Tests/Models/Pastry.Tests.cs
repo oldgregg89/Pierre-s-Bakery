@@ -1,9 +1,9 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
-using Pastry.Models;
+using PierresBakery.Models;
 
-namespace Pastry.Tests 
+namespace PierresBakery.Tests 
 {
   [TestClass]
   public class Pastry

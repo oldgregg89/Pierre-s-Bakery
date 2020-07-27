@@ -1,23 +1,21 @@
 using System;
 using System.Collections.Generic;
 
-namespace Bread.Models
+namespace PierresBakery.Models
 {
-  public class Bread
+  public class Bread : Item
   {
-    
-
-    public string InputBread {get; set;}
-    public int Cost {get; set;}
-    public Bread(string bread)
+    public Bread()
     {
-      InputBread = bread;
-      Cost = 5;
-      Deal = 10
+    Cost = 5;
     }
-    public int TwoforOne()
+    public override void CalculateOrder()
     {
-      
+      TotalCost = Cost * Quantity;
+      if (Quantity % 5 == 0)
+      {
+        TotalCost -= 5;
+      }
     }
   }
 }

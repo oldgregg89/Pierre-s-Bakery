@@ -1,18 +1,15 @@
 using System;
 using System.Collections.Generic;
 
-namespace Pastry.Models
+namespace PierresBakery.Models
 {
-  public class Pastry
+  public class Pastry : Item
   {
-    public string InputPastry {get; set;}
-    public int Cost {get; set;}
-    public Pastry(string pastry)
+    public Pastry()
     {
-      InputPastry = pastry;
-      Cost = 2;
+      Cost = 3;
     }
-    public static void TwoAndOneHalfPrice()
+    public void CalculateOrder()
     {
       
     }

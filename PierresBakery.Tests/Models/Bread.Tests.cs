@@ -1,9 +1,9 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
-using Bread.Models;
+using PierresBakery.Models;
 
-namespace Bread.Tests 
+namespace PierresBakery.Tests 
 {
   [TestClass]
   public class Bread
@@ -18,9 +18,9 @@ namespace Bread.Tests
     public void TwoforOne_WillProvideTheCostOfBreadDealForAnOrderOfThree_Int()
     {
       Bread testBread = new Bread();
-      int BreadCount = 3;
-      int BreadDeal = Bread.TwoforOne(BreadCount);
-      Assert.AreEqual(10, BreadDeal);
+      int breadCount = 3;
+      int breadDeal = Bread.TwoforOne(breadCount);
+      Assert.AreEqual(10, breadDeal);
     }
 
     private static int TwoforOne(int breadCount)
