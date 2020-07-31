@@ -1,12 +1,11 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using System.Collections.Generic;
 using PierresBakery.Models;
 
 namespace PierresBakery.Tests 
 {
   [TestClass]
-  public class Bread
+  public class BreadTests
   {
     [TestMethod]
     public void BreadConstructor_WillCreateABreadObject_Word()
@@ -15,17 +14,15 @@ namespace PierresBakery.Tests
       Assert.AreEqual(typeof(Bread), testBread.GetType());
     }
     [TestMethod]
-    public void TwoforOne_WillProvideTheCostOfBreadDealForAnOrderOfThree_Int()
+    [DataRow(3,10)]
+    [DataRow(5,20)]
+    [DataRow(14,50)]
+    [DataRow(22,75)]
+    public void TwoForOne_WillProvideTheCostOfBreadDealForAnOrderOfThree_Int(int count, int expectedValue)
     {
       Bread testBread = new Bread();
-      int breadCount = 3;
-      int breadDeal = Bread.TwoforOne(breadCount);
-      Assert.AreEqual(10, breadDeal);
-    }
-
-    private static int TwoforOne(int breadCount)
-    {
-      throw new NotImplementedException();
+      int result = testBread.GetBreadTotalCost(count);
+      Assert.AreEqual(expectedValue, result);
     }
   }
 }

@@ -9,13 +9,14 @@ namespace PierresBakery.Models
     {
     Cost = 5;
     }
-    public override void CalculateOrder()
+
+    public int GetBreadTotalCost(int amount)
     {
-      TotalCost = Cost * Quantity;
-      if (Quantity % 5 == 0)
+      if (amount < 3)
       {
-        TotalCost -= 5;
+        return Cost * amount;
       }
+      return (amount - (amount/3)) * Cost;
     }
   }
 }
