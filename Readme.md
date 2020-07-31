@@ -16,9 +16,9 @@ This project is Based around the C# language and the use of the red green refact
 * open the program in a code editor
 * you will need [.NET] (https://dotnet.microsoft.com/download/dotnet-core/2.2) installed to run this program 
 * then install dotnet script REPL by typing 'dotnet tool installl -g dotnet-script' in the command line
-* type dotnet build in the command line to compile the code
+* type `dotnet build` in the command line to compile the code
 * create a .gitignore file and store the bin and obj folders in .gitignore
-* type dotnet run in the command line to run the program
+* type `dotnet run` in the command line to run the program
 
 __
 
